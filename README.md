@@ -34,5 +34,6 @@ python telegram_bot.py
 ```
 Access the bot via the deeplink `https://t.me/{bot_username}` and start chatting
 
-**Note**: the chatbot runs in Polling mode
+**Note**: the chatbot runs in Polling mody
 
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/shivam5210/Sample telegramquiz"></a></p>
